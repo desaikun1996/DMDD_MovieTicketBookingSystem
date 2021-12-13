@@ -1,2 +1,2 @@
 # DMDD_MovieTicketBookingSystem
-DMAG18468 - DMDD Final Project
+DAMG18468 - DMDD Final Project
