@@ -4,9 +4,11 @@
 ## MOVIE TICKET BOOKING SYSTEM
 
 **BACKGROUND**
-* In the past, booking movie tickets has always been a task where people would have to wait in long queues. To overcome this issue, a ticket booking system was introduced. A ticket booking system is a Database Management System (DBMS) that stores customer and movie booking data. This system allows customers to book their ticket at their convenient theater, choose their seats, and on their preferred date to watch the movie. This project emphasizes a better customer experience by facilitating costefficient solutions, user-friendly options, easy and quick booking, and faster payout options, providing an overall hustle-free experience.
+
+In the past, booking movie tickets has always been a task where people would have to wait in long queues. To overcome this issue, a ticket booking system was introduced. A ticket booking system is a Database Management System (DBMS) that stores customer and movie booking data. This system allows customers to book their ticket at their convenient theater, choose their seats, and on their preferred date to watch the movie. This project emphasizes a better customer experience by facilitating costefficient solutions, user-friendly options, easy and quick booking, and faster payout options, providing an overall hustle-free experience.
 
 **OBJECTIVES**
+
 * Creating and storing account details of all users
 * Centralized system that consists of all the movie theater screenings from which customers can book
 tickets in a theater from list of many theaters in one place
